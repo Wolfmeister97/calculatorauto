@@ -1,0 +1,63 @@
+ #CalculateBtn {
+     position: absolute;
+     top: 44%;
+     left: 50%;
+     transform: translate(-50%, -50%);     s
+ }
+
+ h6 {
+     text-align: center;
+     font-size: 25px;
+     margin-top: 50px;
+ }
+
+ header {
+     background-color:#696969;
+     text-align: center;
+     color: black;
+ }
+
+ #km {
+     border-radius: 10px;
+     max-width: 500px;
+     margin: auto;
+     text-align: center;
+ }
+
+ #media {
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+
+}
+
+#tipul {
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+
+}
+
+#cost {
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+
+}
+
+#CalculateBtn {
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+
+}
+
+#kmtext {
+    display: block;
+    text-align: center;
+}
+
+
